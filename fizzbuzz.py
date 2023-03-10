@@ -1,6 +1,6 @@
 ## test
 
-for integer in range(1,101):
+for integer in range(1,100):
     st =""
 
     if integer% 3 == 0:
